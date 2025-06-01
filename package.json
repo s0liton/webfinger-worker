@@ -1,0 +1,13 @@
+{
+  "name": "webfinger-worker",
+  "version": "1.0.0",
+  "description": "Cloudflare Worker for WebFinger at solitonradar.com",
+  "type": "module",
+  "scripts": {
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=18"
+  }
+}
